@@ -1,2 +1,2 @@
-# pmBoard
-A small scale project management board using a REST API and Node.js
+# backyard
+A full-stack thrift market application
